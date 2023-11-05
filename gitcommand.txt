@@ -33,6 +33,11 @@ after modification
 // git commit -m "message" : commit the changes
 
 
+git push
+........
+local [laptop] >> remote [github]   // push
+// git push origin master : push the changes from local to remote
+
 
 git status
 ..........
