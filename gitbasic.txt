@@ -1,0 +1,18 @@
+Git
+Git is a version control system
+version control system is a tool to track changes in code
+
+1. track the history
+2. colaborate
+
+
+
+Github
+Website that allows developers to store and manage their code using git.
+
+Folder(Repository)
+
+
+Developers use Git to track changes in their code, and they can choose to host their Git repositories on GitHub for team collaboration and code sharing.
+
+

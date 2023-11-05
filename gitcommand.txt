@@ -1,0 +1,43 @@
+git command
+-----------
+
+
+basic git commands
+..................
+// git --version : check version of git
+// ls : list of files
+//ls -a : list of hidden files
+//pwd : present working directory
+// cd : change directory
+// cd .. : move to previous directory
+
+
+configure git == i am saying to git that which account i am using
+.................................................................
+// git config --global user.name "name"
+// git config --global user.email "email"
+// git config --list : list of configuration
+
+
+clone & status
+...............
+remote [github] >> local [laptop]   // clone
+// git clone "url" : clone the repository on local(laptop) machine
+// git status : check the status of repository
+
+
+after modification
+..................
+// git status : check the status of repository
+// git add "filename" : add the file in staging area
+// git commit -m "message" : commit the changes
+
+
+
+git status
+..........
+// git status : check the status of repository
+1. untracked files : files which are not in git
+2. modified files : files which are modified but not commited
+3. staged files : files which are added in staging area but not commited
+4. unmodified : files which are commited (unchanged)
